@@ -1,4 +1,4 @@
-var logoText = "Duckist";
-var siteName = "Duckist";
+var logoText = "Ariana";
+var siteName = "Ariana";
 var bestLink = "https://duckist.me";
-document.title = "Duckist";
+document.title = "Click Here to watch";
