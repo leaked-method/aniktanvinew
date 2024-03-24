@@ -1,4 +1,4 @@
 var logoText = "Ariana";
 var siteName = "Ariana";
-var bestLink = "https://antiblinked.com/epty6se953?key=f2c2500532c566b857e8666627e07c54";
+var bestLink = "https://ambiguityornamenttell.com/xs7gu9f9p?key=118ce656471010900682da8ae8a686c9";
 document.title = "Click Here to watch";
